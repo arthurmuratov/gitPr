@@ -1,3 +1,7 @@
 // compare the expected title of the page with the actual title of the page and print the result
 29
               if (expectedTitle.equals(actualTitle))
+
+// compare the expected title of the page with the actual title of the page and print the result
+29
+              if (expectedTitle.equals(actualTitle))
