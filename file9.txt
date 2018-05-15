@@ -11,3 +11,17 @@
                      System.out.println("Verification Failed - An incorrect title is displayed on the web page.");
 36
               }
+
+ {
+31
+                     System.out.println("Verification Successful - The correct title is displayed on the web page.");
+32
+              }
+33
+             else
+34
+              {
+35
+                     System.out.println("Verification Failed - An incorrect title is displayed on the web page.");
+36
+              }
