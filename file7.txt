@@ -1,3 +1,7 @@
 // fetch the title of the web page and save it into a string variable
 26
               String actualTitle = driver.getTitle();
+
+// fetch the title of the web page and save it into a string variable
+26
+              String actualTitle = driver.getTitle();
