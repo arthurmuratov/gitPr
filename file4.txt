@@ -1,3 +1,9 @@
 // launch the firefox browser and open the application url
 17
               driver.get(appUrl
+
+
+
+// launch the firefox browser and open the application url
+17
+              driver.get(appUrl
