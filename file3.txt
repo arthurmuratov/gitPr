@@ -3,3 +3,11 @@
               WebDriver driver = new FirefoxDriver();
 14
               String appUrl = "https://accounts.google.com";
+
+
+
+// objects and variables instantiation
+13
+              WebDriver driver = new FirefoxDriver();
+14
+              String appUrl = "https://accounts.google.com";
