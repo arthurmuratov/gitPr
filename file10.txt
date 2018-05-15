@@ -1,0 +1,27 @@
+// compare the expected title of the page with the actual title of the page and print the result
+29
+              if (expectedTitle.equals(actualTitle))
+30
+              {
+31
+                     System.out.println("Verification Successful - The correct title is displayed on the web page.");
+32
+              }
+33
+             else
+34
+              {
+35
+                     System.out.println("Verification Failed - An incorrect title is displayed on the web page.");
+36
+              }
+37
+ 
+38
+// enter a valid username in the email textbox
+39
+              WebElement username = driver.findElement(By.id("Email"));
+40
+              username.clear();
+41
+              username.sendKeys("TestSelenium");

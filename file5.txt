@@ -1,0 +1,3 @@
+// maximize the browser window
+20
+              driver.manage().window().maximize();
