@@ -10,3 +10,17 @@
 // maximize the browser window
 20
               driver.manage().window().maximize();
+
+// maximize the browser window
+20
+              driver.manage().window().maximize();
+
+
+// maximize the browser window
+20
+              driver.manage().window().maximize();
+
+// maximize the browser window
+20
+              driver.manage().window().maximize();
+
